@@ -6,6 +6,8 @@ date: 2022-06-06T04:00:00.000Z
 tags:
   - number-2
 ---
+![](/static/img/img_0715.png)
+
 Over the course of the past couple of years, I've noticed a breakdown in the quality of service in garbage pickups on the east side in Detroit. Say what you may about Rizzo, [manged by corrupt Chuck Rizzo](https://www.clickondetroit.com/news/2018/04/23/chuck-rizzo-jr-sentenced-in-macomb-county-corruption-scandal/), but at least they were good at taking the garbage out on time and without issue.
 
 Since [Rizzo was purchased by GFL in 2016](https://gflenv.com/gfl-announces-first-us-acquisition/), their performance has gone downhill. I first started noticing issues in 2019. And they've only gotten worse in the past few years. Their issues are in a few different areas: missing pickups (either a whole block, or a couple of cans, or recycling / yard waste / bulk), managing their fleet as well as picking up items that they're not supposed to, which just creates more dumping.
