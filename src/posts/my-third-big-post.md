@@ -1,119 +1,26 @@
 ---
-title: This is my third post
-description: Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-date: 2020-09-03
-author: Surjith S M
+title: Safe Streets for Safe Neighborhoods
+description: Learn how Detroit can improve safety on our streets without
+  militarizing law enforcement.
+author: Mac Farr
+date: 2021-11-10T05:00:00.000Z
 tags:
   - second-tag
 ---
+In the past couple of years, we’ve seen our roadways in Detroit become more dangerous.  When a city loses 2/3 of its population, it is inevitable that we end up with excess capacity on our roads, which makes them feel underutilized and empty.  This emptiness enables much higher rates of speed.  The City, much to its credit, has been able to get behind speed humps as a way of calming traffic in many of our residential neighborhoods.  The improvements those have yielded is immediate, and they seem to be well received by an overwhelming majority of residents.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+However, when it comes to drag racing on our major streets, there is still a lot left to be addressed.  Drag racing has been an issue in Detroit for some a long time.  Folks have been killed in accidents caused by racing, both the motorists themselves and innocent bystanders, in some cases.  You can hear it at night in many neighborhoods throughout Detroit.  And in 2020, during COVID, the severity and frequency of drag racing increased exponentially, and has continued through to the present day.  Just this past week in Jefferson Chalmers, [a car sped through the front of a house, blew through the entire structure, landing in the back yard](https://www.fox2detroit.com/news/speeding-car-crashes-into-and-through-house-on-detroits-east-side).  Miraculously, nobody was killed.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The Detroit Police Department (DPD) has, again to their credit, attempted to combat the problem, but with very limited results.  But there is one category of equipment and tactics that they haven’t tried that may well prove to be a magic bullet.  That equipment is called Stop Sticks, and despite ongoing conversations with DPD, the department has opted not to try them, despite the obvious need for different tactics, equipment and training.
 
-## h2 Heading
+At the beginning of this spring, one of the first initiatives that they tried was to put together a dedicated detail designed specifically to combat drag racing.  Anecdotally, this detail is comprised of about 20 officers, though that figure is still pending confirmation.  According to senior department executives, it hasn’t made much of a dent in the problem, though it has actually made it so that neighborhood coverage in other areas has been reduced to staff this detail.  Given the limitations of DPD’s pursuit policy, namely, that unless there’s an imminent danger to the public, DPD does not give chase to vehicles that are fleeing and eluding patrols.
 
-### h3 Heading
+Essentially, this detail is taking officers away from existing coverage of the neighborhoods to support an activity that hasn’t proven to be significantly effective.
 
-#### h4 Heading
+Additionally, DPD has acquired a helicopter, which it has deployed, again with mixed results, in order to deter and enforce on drag racing.  The helicopter is able to pursue one car at a time until it runs out of gas and is able to be apprehended.  This has had, ironically, the opposite effect intended, as racers realize that because the helicopter is only able to pursue one car at a time, it has drawn more racers out than before.  According to reports, the helicopter cost $2.7 million and is very costly to maintain, insure, staff and operate.  While I’m sure that a city like Detroit needs a helicopter in its arsenal, given the lack of effectiveness of the vehicle, I don’t know that a helicopter is the right tool to deter or enforce on drag racing.
 
-##### h5 Heading
+So let’s back up and examine some foundational reasons as to why racers choose to race in Detroit.  Before we do so, we should probably note that a major portion of, if not an outright majority, of the racers come from outside of Detroit.  While we have our own issues, this problem is not entirely home grown.  Secondly, the reason that folks come here to race, as previously mentioned, is that our roadways are pretty empty compared to many other neighboring municipalities.  Neighboring communities such as Dearborn, Grosse Pointe or Royal Oak just don’t have the space on their roadways to enable racing to occur.  The third point is that folks come here to race because they can.  Given the expanse of the city, the relative scarcity of law enforcement in many areas and the generalized nature of racing culture just coming downtown, we are the natural destination for motorists to misbehave.
 
-###### h6 Heading
+In a nutshell, racers come to Detroit for the simple reason that they are able to, and that there is a pretty limited chance that there’s going to be real costs for them to do so.  If you’re jonesing to do some car racing, chances are you can come to Detroit, burn rubber for a few hours, generally drive like an idiot, and return to the safety of the garage in the suburbs, the only costs incurred being mileage.  Pretty good deal, right?
 
-## Horizontal Rules
-
----
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
+Stop Sticks are a tactical demobilization device used in thousands of law enforcement agencies across the country.  They have been used in many thousands of settings to keep cars from fleeing law enforcement.  They are cheaper than what DPD has done to date, they don’t require the formation of a special detail to deploy, cutting into preexisting coverage in the neighborhoods.  And, best yet, they are effective.  Check out some of the videos you can find these bozos driving over Stop Sticks, and, in the process, destroying their tires.  The tires are shredded, and they cause substantial damage to the rims.  Once they are demobilized, the cars would be impounded and hopefully bound over to the authorities for civil forfeiture and liquidation.
