@@ -7,6 +7,8 @@ date: 2021-11-10T05:00:00.000Z
 tags:
   - second-tag
 ---
+![](/static/img/_img_stop-sticks.jpeg)
+
 In the past couple of years, we’ve seen our roadways in Detroit become more dangerous.  When a city loses 2/3 of its population, it is inevitable that we end up with excess capacity on our roads, which makes them feel underutilized and empty.  This emptiness enables much higher rates of speed.  The City, much to its credit, has been able to get behind speed humps as a way of calming traffic in many of our residential neighborhoods.  The improvements those have yielded is immediate, and they seem to be well received by an overwhelming majority of residents.
 
 However, when it comes to drag racing on our major streets, there is still a lot left to be addressed.  Drag racing has been an issue in Detroit for some a long time.  Folks have been killed in accidents caused by racing, both the motorists themselves and innocent bystanders, in some cases.  You can hear it at night in many neighborhoods throughout Detroit.  And in 2020, during COVID, the severity and frequency of drag racing increased exponentially, and has continued through to the present day.  Just this past week in Jefferson Chalmers, [a car sped through the front of a house, blew through the entire structure, landing in the back yard](https://www.fox2detroit.com/news/speeding-car-crashes-into-and-through-house-on-detroits-east-side).  Miraculously, nobody was killed.
