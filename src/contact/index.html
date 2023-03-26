@@ -1,0 +1,113 @@
+---
+layout: default
+title: Contact
+---
+
+<div class="container max-w-4xl mt-6 px-6">
+  <h1 class="font-bold text-5xl pb-5 mb-5 border-sky-500 border-b">
+    {{title}}
+  </h1>
+  <div class="prose">
+    <p>
+      Want to chat? Complete the contact form or send me an email at
+      <a href="mailto:mmfarr@gmail.com">mmfarr@gmail.com</a>.
+    </p>
+
+    <h2>Social</h2>
+
+    {% for item in social.links %}
+    <a
+      href="{{item.url}}"
+      class="flex items-center gap-4 mb-4 fill-white no-underline hover:underline"
+    >
+      <span class="inline-block p-2 bg-sky-500 rounded-full">
+        <svg width="24" height="24" viewBox="{{item.viewbox}}">
+          <path d="{{item.icon}}"></path>
+        </svg>
+      </span>
+      <span class="text-white">{{item.label}}</span>
+    </a>
+    {% endfor %}
+
+    <h2>Send me a message.</h2>
+
+    <form
+      class="w-full max-w-lg"
+      action="https://formsubmit.co/mac.farr@gmail.com"
+      method="POST"
+    >
+      <div class="flex flex-wrap -mx-3 mb-6">
+        <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+          <label
+            class="block uppercase tracking-wide text-sky-200 text-xs font-bold mb-2"
+            for="grid-name"
+          >
+            Name
+          </label>
+          <input
+            class="appearance-none block w-full bg-gray-200 text-gray-800 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
+            for="grid-name"
+            name="name"
+            type="text"
+            required
+          />
+        </div>
+        <div class="w-full md:w-1/2 px-3">
+          <label
+            class="block uppercase tracking-wide text-sky-200 text-xs font-bold mb-2"
+            for="grid-phone"
+          >
+            Phone
+          </label>
+          <input
+            class="appearance-none block w-full bg-gray-200 text-gray-800 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
+            id="grid-phone"
+            name="phone"
+            type="tel"
+          />
+        </div>
+      </div>
+      <div class="flex flex-wrap -mx-3 mb-6">
+        <div class="w-full px-3">
+          <label
+            class="block uppercase tracking-wide text-sky-200 text-xs font-bold mb-2"
+            for="grid-email"
+          >
+            Email
+          </label>
+          <input
+            class="appearance-none block w-full bg-gray-200 text-gray-800 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
+            id="grid-email"
+            name="email"
+            type="email"
+            required
+          />
+        </div>
+      </div>
+      <div class="flex flex-wrap -mx-3 mb-6">
+        <div class="w-full px-3">
+          <label
+            class="block uppercase tracking-wide text-sky-200 text-xs font-bold mb-2"
+            for="grid-message"
+          >
+            Your Message
+          </label>
+          <textarea
+            class="appearance-none block w-full bg-gray-200 text-gray-800 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 resize-none"
+            id="grid-message"
+            name="message"
+            required
+          ></textarea>
+        </div>
+      </div>
+      <div class="flex flex-wrap mb-6">
+        <button
+          class="bg-sky-600 hover:bg-sky-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+</div>

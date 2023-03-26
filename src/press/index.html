@@ -1,0 +1,19 @@
+---
+layout: default
+title: Press
+---
+
+<div class="container max-w-4xl mt-6 px-6">
+  <h1 class="font-bold text-5xl pb-5 mb-5 border-sky-500 border-b">
+    {{title}}
+  </h1>
+  {% for item in press.links %}
+  <a href="{{item.url}}" target="_blank" class="block mb-5">
+    <h3 class="hover:text-sky-400">{{item.title}}</h3>
+    <p>{{item.desc}}</p>
+    <p>
+      <small class="text-sky-200">{{item.pub}}</small>
+    </p>
+  </a>
+  {% endfor %}
+</div>
