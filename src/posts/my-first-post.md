@@ -8,6 +8,8 @@ tags:
   - center
   - right
 ---
+![The flag for the city of Detroit.](/static/img/_img_flag_of_detroit.svg.png)
+
 For a long time, I kept a blog. It was called Plausible Deniability, and it was on Wordpress. From like 2008 until 2015 or so, I wrote a ton of posts, and it was my first foray into structured writing. It was sort of cute, and some folks seemed to like it. I would post something, and it would get some clicks, and I would feel some kind of validation.
 
 But there were some pretty profound limitations in how and what I was writing. My approach was to take a topic, apply my own logic and rhetoric to it, and beat folks over the head with it. It was not a way that worked when it came to actually winning hearts and minds.
