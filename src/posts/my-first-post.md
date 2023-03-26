@@ -1,60 +1,17 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: Introduction
+description: Who I am and what I'm trying to do.
+author: Mac Farr
+date: 2021-11-10T05:00:00.000Z
 tags:
   - left
   - center
   - right
 ---
-# This is a Heading h1
+For a long time, I kept a blog. It was called Plausible Deniability, and it was on Wordpress. From like 2008 until 2015 or so, I wrote a ton of posts, and it was my first foray into structured writing. It was sort of cute, and some folks seemed to like it. I would post something, and it would get some clicks, and I would feel some kind of validation.
 
-## This is a Heading h2
+But there were some pretty profound limitations in how and what I was writing. My approach was to take a topic, apply my own logic and rhetoric to it, and beat folks over the head with it. It was not a way that worked when it came to actually winning hearts and minds.
 
-###### This is a Heading h6
+I stopped writing when I started working for the City of Detroit in about 2015 or so. The collapse of my marriage in the years since and some other pretty profound personal issues prevented me from really having anything constructive to say for some time. But now, I feel like I've done enough work on myself so that the underlying message, that we can live in a better, happier, cleaner, safer more peaceful city, is one that I can land with a wider audience.
 
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+Over the coming weeks, months and years, I am going to use this as a platform to disseminate ideas about how to make Detroit a more sustainable place to live for everyone. Some of it is going to have to do with infrastructure, economic development and housing. A lot of it will have to do with the cumulative experience of moving around Detroit in different areas, both geographic, social and professional.
