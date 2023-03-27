@@ -72,3 +72,8 @@ body :not(pre) > code[class*='language-'],
 body pre[class*='language-'] {
   @apply bg-gray-800;
 }
+
+#disqus_thread {
+  max-width: 65ch;
+  @apply mx-auto;
+}
