@@ -58,13 +58,14 @@ h3 {
 }
 
 .prose a {
-  @apply text-sky-400;
+  @apply text-sky-300;
 }
 
 /* Syntax Highlighting*/
 
 body {
   @apply bg-green-900 text-white;
+  min-height: 100vh;
 }
 
 body :not(pre) > code[class*='language-'],

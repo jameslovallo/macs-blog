@@ -12,17 +12,14 @@ layout: blog
       </a>
     </h3>
     <p class="text-base leading-6 text-sky-200 mb-3">
-      <time>
-        {{ post.date | readableDate }} by
-        <a>{{ post.data.author }}</a>
-      </time>
+      <time>{{ post.date | readableDate }} by {{ post.data.author }}</time>
     </p>
     {% if post.data.description %}
     <p class="text-lg text-gray-300 mb-3">{{ post.data.description }}</p>
     {% endif %}
 
     <p>
-      <a href="{{ post.url | url }}" class="text-sky-400 font-bold text-lg">
+      <a href="{{ post.url | url }}" class="text-sky-300 font-bold text-lg">
         Read more →
       </a>
     </p>
